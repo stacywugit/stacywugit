@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @stacywugit
-- 👀 I’m interested in NLP 
-- 🌱 I’m currently practice what I learned in college
 - 📫 How to reach me 
 LinkedIn: https://www.linkedin.com/in/hsuan-jung-w-133579211/
 
